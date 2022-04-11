@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeldinmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="seifeldinmohamed" /> </p>
 
+## 🤵 About Me:
+- 🏦 Android Developer since 2016.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
