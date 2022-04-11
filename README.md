@@ -10,9 +10,9 @@ I'm an ANDROID Developer with experience of working on a variety of projects and
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently working at [Foody App](https://github.com/SeifEldinMohamed/Foody-App)
 - 🌱 I’m currently learning [Dependency Injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
-- 💬 Ask me about anything [here]()
+- 💬 Ask me about anything [here](https://mail.google.com/mail/u/0/#inbox)
 
-
+<br></br>
 <!-- Resume Download section -->
 <p align='center'>
       <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif_Eldin%20Mohamed%20Ahmed_Resume_31-03-2022.pdf
@@ -31,13 +31,11 @@ I'm an ANDROID Developer with experience of working on a variety of projects and
 </a>
 
 <br></br>
-<p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" />
-</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldinmohamed&show_icons=true&locale=en&layout=compact" alt="seifeldinmohamed" /></p>
 
-
+<br></br>
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/sm499088l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sm499088l" /></a></p><br><br>
