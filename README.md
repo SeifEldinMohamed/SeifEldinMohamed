@@ -7,17 +7,15 @@
 - 🏦 Android Developer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <h3 align="left">Connect with me:</h3>
-<a href="https://facebook.com/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
+<a href="https://www.facebook.com/profile.php?id=100007229115620">
+  <img align="left" alt="Seif Eldin Mohamed | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
 </a>
-<a href="https://twitter.com/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Twitter" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/004-twitter.png?raw=true" />
+
+<a href="https://www.instagram.com/seifmohamed_11/?hl=en">
+  <img align="left" alt="Seif Eldin Mohamed  | Instagram " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/003-instagram.png?raw=true" />
 </a>
-<a href="https://instagram/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Instagram " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/003-instagram.png?raw=true" />
-</a>
-<a href="https://www.linkedin.com/in/alfayedoficial/">
-  <img align="left" alt="Ali Al Fayed | LinkedIn " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
+<a href="https://www.linkedin.com/in/seif-mohamed-a6b1941b2/">
+  <img align="left" alt="Seif Eldin Mohamed  | LinkedIn " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
 </a>
 
 <p align="left">
