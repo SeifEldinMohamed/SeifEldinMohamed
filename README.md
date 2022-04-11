@@ -15,7 +15,7 @@ I'm an ANDROID Developer with experience of working on a variety of projects and
 
 <!-- Resume Download section -->
 <p align='center'>
-      <a href="https://github.com/SeifEldinMohamed/Seif_Eldin Mohamed Ahmed_Resume_31-03-2022.pdf
+      <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif_Eldin%20Mohamed%20Ahmed_Resume_31-03-2022.pdf
 "><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
 </p>
       
