@@ -18,7 +18,7 @@
   <img align="left" alt="Seif Eldin Mohamed  | LinkedIn " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldinmohamed&show_icons=true&locale=en&layout=compact" alt="seifeldinmohamed" /></p>
 
