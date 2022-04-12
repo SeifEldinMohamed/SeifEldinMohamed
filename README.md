@@ -11,6 +11,7 @@ I'm an ANDROID Developer with experience of working on a variety of projects and
 - 🔭 I’m currently working at [Foody App](https://github.com/SeifEldinMohamed/Foody-App)
 - 🌱 I’m currently learning [Dependency Injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - 💬 Ask me about anything [here](https://github.com/seifeldinmohamed/seifeldinmohamed/issues)
+- ⚡ Fun fact **I am an Android Nerd 😁**
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
@@ -25,7 +26,7 @@ I'm an ANDROID Developer with experience of working on a variety of projects and
 </a>
 
 <br></br>
-<!-- Resume Download section -->
+<!-- My Resume Download section -->
 <p align='center'>
       <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif_Eldin%20Mohamed%20Ahmed_Resume_31-03-2022.pdf
 "><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
