@@ -8,7 +8,7 @@ I'm an ANDROID Developer with experience of working on a variety of projects and
 
 - 🏦 Android Developer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I’m currently working at [Foody App](https://github.com/SeifEldinMohamed/Foody-App)
+- 🔭 I’m currently working on [Foody App](https://github.com/SeifEldinMohamed/Foody-App)
 - 🌱 I’m currently learning [Dependency Injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - 💬 Ask me about anything [here](https://github.com/seifeldinmohamed/seifeldinmohamed/issues)
 - ⚡ Fun fact **I am an Android Nerd 😁**
