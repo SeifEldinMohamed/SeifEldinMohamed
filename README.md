@@ -11,7 +11,7 @@ I'm an Android Developer with experience of working on a variety of projects and
 - 🔭 I’m currently working on [Foody App](https://github.com/SeifEldinMohamed/Foody-App)
 - 🌱 I’m currently learning [Dependency Injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android) , [Google Maps](https://developers.google.com/maps/documentation/android-sdk)
 - 💬 Ask me about anything [here](https://github.com/seifeldinmohamed/seifeldinmohamed/issues)
-- ⚡ Fun fact **I am an Android Nerd 😁**
+- ⚡ Fun fact ** I am an Android Nerd 😁 **
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
