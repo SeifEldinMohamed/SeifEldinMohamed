@@ -9,7 +9,7 @@ I'm an Android Developer with experience of working on a variety of projects and
 - 🏦 Android Developer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently working on [Distance Tracker App](https://github.com/SeifEldinMohamed/DistanceTrackerApp)
-- 🌱 I’m currently learning [MVI Architecture]() , [Google Maps](https://developers.google.com/maps/documentation/android-sdk)
+- 🌱 I’m currently learning [MVI Architecture]() , [Geofence API](https://developers.google.com/location-context/geofencing)
 - 💬 Ask me about anything [here](https://github.com/seifeldinmohamed/seifeldinmohamed/issues)
 - ⚡ Fun fact ** I am an Android Nerd **
 <br></br>
