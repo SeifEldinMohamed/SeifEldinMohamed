@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeldinmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="seifeldinmohamed" /> </p>
 
 ## 🤵 About Me:
-I'm an Android Developer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code. I have good Rest API, Retrofit, Coroutines, Room Database, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and power to use Databinding, Live Data, MutableLiveData and GitHub to work with a team. 
+I'm an Android Software Engineer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code. I have good Rest API, Retrofit, Coroutines, Room Database, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and power to use Databinding, Live Data, MutableLiveData and GitHub to work with a team. 
 
 - 🏦 Android Developer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
