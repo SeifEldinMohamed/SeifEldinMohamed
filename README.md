@@ -27,16 +27,13 @@ I'm an Android Software Engineer with experience of working on a variety of proj
 
 <br></br>
 <!-- Resume Download section -->
+
 <p align='center'>
       <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif_Eldin%20Mohamed%20Ahmed_Resume_28-04-2022.pdf
 "><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
 </p>
-      
+<br></br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldinmohamed&show_icons=true&locale=en&layout=compact" alt="seifeldinmohamed" /></p>
 
-<br></br>
-<h3 align="left">Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/sm499088l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sm499088l" /></a></p><br><br>
