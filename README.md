@@ -26,10 +26,11 @@ I'm an Android Software Engineer with experience of working on a variety of proj
 
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldinmohamed&show_icons=true&locale=en&layout=compact" alt="seifeldinmohamed" /></p>
 
-<br></br>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldinmohamed&show_icons=true&locale=en&layout=compact" alt="seifeldinmohamed" /></p>
+
+<br></br></br>
 
 <h3 align="left">Connect with me:</h3>
 
