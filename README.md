@@ -11,9 +11,9 @@ I'm an Android Software Engineer with experience of working on a variety of proj
 - 🏦 Android Developer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       
-- 🔭 I’m currently working on [Ecommerce App](https://github.com/SeifEldinMohamed/EcommerceApp)
+- 🔭 I’m currently working on [Compose Stock Market App](https://github.com/SeifEldinMohamed/Compose-Stock-Market-App)
 
-- 🌱 I’m currently learning [Ui Testing]() , [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjwjbyYBhCdARIsAArC6LL3Ohqdc0S55oanUq9jwmPZ6W9OCoT4C-74quFi58KPtwe1tSvfRNUaAqjKEALw_wcB&gclsrc=aw.ds)
+- 🌱 I’m currently learning [Ui and Unit Testing]() , [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjwjbyYBhCdARIsAArC6LL3Ohqdc0S55oanUq9jwmPZ6W9OCoT4C-74quFi58KPtwe1tSvfRNUaAqjKEALw_wcB&gclsrc=aw.ds)
 
 - 📫 How to reach me **seifeldinmohamed101@gmail.com**
 
