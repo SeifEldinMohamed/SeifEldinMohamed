@@ -17,7 +17,7 @@ I'm an Android Software Engineer with experience of working on a variety of proj
 
 - 📫 How to reach me **seifeldinmohamed101@gmail.com**
 
-- 📄 Know about my experiences [LinkedIm](https://www.linkedin.com/in/seif-mohamed-a6b1941b2/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/seif-mohamed-a6b1941b2/)
 
 - ⚡ Fun fact ** I am an Android Nerd 😁 **
 <br></br>
