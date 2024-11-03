@@ -8,7 +8,7 @@ I'm an Android Software Engineer with experience of working on a variety of proj
 
 <br>
 
-- 🏦 Android Developer since 2020.
+- 🏦 Android Software Engineer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       
 - 🔭 I’m currently working on [The Walking Dead App](https://github.com/SeifEldinMohamed/The-Walking-Dead-App)
