@@ -4,29 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeldinmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="seifeldinmohamed" /> </p>
 
 ## 🤵 About Me:
-• 🎯 Talented Android Software Engineer with +3 years of hands-on experience in Android development.
-• 💼 Currently working as an Android Software Engineer II at Banque Misr, contributing to the development of BM Online App.
-• 🌍 Experienced in working within multinational teams utilizing Agile methodologies to deliver high-quality features.
-• 🎓 Android Instructor for Ministry of Communications and Information Technology (MCIT) in Android Diploma.
-• 👨‍🏫 Android Mentor for Banque Misr in their summer internship program.
-• 📚 Android Instructor for the scholarship offered by AMIT and Orange Digital Center (ODC) for the Android Diploma.
-• 👩‍💻 Android Instructor for +50 students in the Android Workshop at the Google Developer Student Club (GDSC).
-• 📱 Successfully built 6 original apps on the Google Play Store.
+• 🎯 Talented Android Software Engineer with +4 years of hands-on experience in Android development.<br>
+• 💼 Currently working as an Android Software Engineer II at Banque Misr, contributing to the development of BM Online App.<br>
+• 🌍 Experienced in working within multinational teams utilizing Agile methodologies to deliver high-quality features.<br>
+• 🎓 Android Instructor for Ministry of Communications and Information Technology (MCIT) in Android Diploma.<br>
+• 👨‍🏫 Android Mentor for Banque Misr in their summer internship program.<br>
+• 📚 Android Instructor for the scholarship offered by AMIT and Orange Digital Center (ODC) for the Android Diploma.<br>
+• 👩‍💻 Android Instructor for +50 students in the Android Workshop at the Google Developer Student Club (GDSC).<br>
+• 📱 Successfully built 6 original apps on the Google Play Store.<be>
 
-<br>
-
-- 🏦 Android Software Engineer since 2020.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-      
-- 🔭 I’m currently working on [The Walking Dead App](https://github.com/SeifEldinMohamed/The-Walking-Dead-App)
-
-- 🌱 I’m currently learning [Ui and Unit Testing]() , [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjwjbyYBhCdARIsAArC6LL3Ohqdc0S55oanUq9jwmPZ6W9OCoT4C-74quFi58KPtwe1tSvfRNUaAqjKEALw_wcB&gclsrc=aw.ds)
-
-- 📫 How to reach me **seifeldinmohamed101@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/seif-mohamed-a6b1941b2/)
-
-- ⚡ Fun fact ** I am an Android Nerd 😁 **
+• 🏦 Android Software Engineer since 2020.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+• 🔭 I’m currently working on [The Walking Dead App](https://github.com/SeifEldinMohamed/The-Walking-Dead-App)<br>
+• 🌱 I’m currently learning [Ui and Unit Testing]() , [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjwjbyYBhCdARIsAArC6LL3Ohqdc0S55oanUq9jwmPZ6W9OCoT4C-74quFi58KPtwe1tSvfRNUaAqjKEALw_wcB&gclsrc=aw.ds)<br>
+• 📫 How to reach me **seifeldinmohamed101@gmail.com**<br>
+• 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/seif-mohamed-a6b1941b2/)<br>
+• ⚡ Fun fact ** I am an Android Nerd 😁 **
 <br></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifeldinmohamed&" alt="seifeldinmohamed" /></p>
