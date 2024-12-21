@@ -4,7 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeldinmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="seifeldinmohamed" /> </p>
 
 ## 🤵 About Me:
-I'm an Android Software Engineer with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code. I have good Rest API, Retrofit, Coroutines, Room Database, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and power to use Databinding, Live Data, MutableLiveData and GitHub to work with a team. 
+• 🎯 Talented Android Software Engineer with +3 years of hands-on experience in Android development.
+• 💼 Currently working as an Android Software Engineer II at Banque Misr, contributing to the development of BM Online App.
+• 🌍 Experienced in working within multinational teams utilizing Agile methodologies to deliver high-quality features.
+• 🎓 Android Instructor for Ministry of Communications and Information Technology (MCIT) in Android Diploma.
+• 👨‍🏫 Android Mentor for Banque Misr in their summer internship program.
+• 📚 Android Instructor for the scholarship offered by AMIT and Orange Digital Center (ODC) for the Android Diploma.
+• 👩‍💻 Android Instructor for +50 students in the Android Workshop at the Google Developer Student Club (GDSC).
+• 📱 Successfully built 6 original apps on the Google Play Store.
 
 <br>
 
