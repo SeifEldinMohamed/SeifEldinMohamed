@@ -32,14 +32,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.facebook.com/profile.php?id=100007229115620">
-  <img align="left" alt="Seif Eldin Mohamed | Facebook" width="40px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
-</a>
-
-<a href="https://www.instagram.com/seifmohamed_11/?hl=en">
-  <img align="left" alt="Seif Eldin Mohamed  | Instagram " width="41px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/003-instagram.png?raw=true"/>
-</a>
-
 <a href="https://www.linkedin.com/in/seif-mohamed-a6b1941b2/">
   <img align="left" alt="Seif Eldin Mohamed  | LinkedIn " width="41px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
 </a>
