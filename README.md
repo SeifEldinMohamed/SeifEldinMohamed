@@ -40,7 +40,7 @@
 <!-- Resume Download section -->
 
 <p align='center'>
-      <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif_Eldin%20Mohamed%20Ahmed_Resume_01-08-2022.pdf
+      <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif-Eldin-Mohamed-Ahmed-Resume-2024-12-26.pdf
 "><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
 </p>
 
