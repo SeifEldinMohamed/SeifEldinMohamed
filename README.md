@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Seif Eldin Mohamed Ahmed</h1>
-<h3 align="center">Android Software Engineer from Egypt</h3>
+<h3 align="center">Senior Android Software Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeldinmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="seifeldinmohamed" /> </p>
 
 ## 🤵 About Me:
-• 🎯 Talented Android Software Engineer with +4 years of hands-on experience in Android development.<br>
-• 💼 Currently working as an Android Software Engineer II at Banque Misr, contributing to the development of BM Online App.<br>
+• 🎯 Talented Android Software Engineer with +5 years of hands-on experience in Android development.<br>
+• 💼 Currently working as an Senior Android Software Engineer at CME, Ex-Banque Misr<be>
 • 🌍 Experienced in working within multinational teams utilizing Agile methodologies to deliver high-quality features.<br>
 • 🎓 Android Instructor for Ministry of Communications and Information Technology (MCIT) in Android Diploma.<br>
 • 👨‍🏫 Android Mentor for Banque Misr in their summer internship program.<br>
