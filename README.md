@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Seif Eldin Mohamed Ahmed</h1>
+<h1 align="center">Hi 👋 I'm Seif Mohamed </h1>
 <h3 align="center">Senior Android Software Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeldinmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="seifeldinmohamed" /> </p>
@@ -15,8 +15,7 @@
 
 • 🏦 Android Software Engineer since 2020.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-• 🔭 I’m currently working on [The Walking Dead App](https://github.com/SeifEldinMohamed/The-Walking-Dead-App)<br>
-• 🌱 I’m currently learning [Ui and Unit Testing]() , [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjwjbyYBhCdARIsAArC6LL3Ohqdc0S55oanUq9jwmPZ6W9OCoT4C-74quFi58KPtwe1tSvfRNUaAqjKEALw_wcB&gclsrc=aw.ds)<br>
+• 🌱 I’m currently learning [KMP](https://developer.android.com/kotlin/multiplatform)<br>
 • 📫 How to reach me **seifeldinmohamed101@gmail.com**<br>
 • 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/seif-mohamed-a6b1941b2/)<br>
 • ⚡ Fun fact ** I am an Android Nerd 😁 **
