@@ -13,20 +13,12 @@
 • 👩‍💻 Android Instructor for +50 students in the Android Workshop at the Google Developer Student Club (GDSC).<br>
 • 📱 Successfully built 6 original apps on the Google Play Store.<be>
 
-• 🏦 Android Software Engineer since 2020.
+• 🏦 Android Software Engineer since 2021.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 • 🌱 I’m currently learning [KMP](https://developer.android.com/kotlin/multiplatform)<br>
 • 📫 How to reach me **seifeldinmohamed101@gmail.com**<br>
 • 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/seif-mohamed-a6b1941b2/)<br>
 • ⚡ Fun fact ** I am an Android Nerd 😁 **
-<br></br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifeldinmohamed&" alt="seifeldinmohamed" /></p>
-
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seifeldinmohamed&show_icons=true&locale=en" alt="seifeldinmohamed" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldinmohamed&show_icons=true&locale=en&layout=compact" alt="seifeldinmohamed" /></p>
-
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
@@ -42,7 +34,4 @@
       <a href="https://github.com/SeifEldinMohamed/SeifEldinMohamed/blob/main/Seif-Eldin-Mohamed-Ahmed-Resume-2024-12-26.pdf
 "><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
 </p>
-
-
-
 
