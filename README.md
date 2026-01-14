@@ -5,7 +5,7 @@
 
 ## 🤵 About Me:
 • 🎯 Talented Android Software Engineer with +5 years of hands-on experience in Android development.<br>
-• 💼 Currently working as a Senior Android Software Engineer at CME, Ex-Banque Misr<be>
+• 💼 Currently working as a Senior Android Software Engineer at CME, Ex-Banque Misr<br>
 • 🌍 Experienced in working within multinational teams utilizing Agile methodologies to deliver high-quality features.<br>
 • 🎓 Android Instructor for Ministry of Communications and Information Technology (MCIT) in Android Diploma.<br>
 • 👨‍🏫 Android Mentor for Banque Misr in their summer internship program.<br>
